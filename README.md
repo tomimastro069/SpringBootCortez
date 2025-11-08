@@ -65,8 +65,11 @@ El uso de perfiles (dev y prod) es muy importante en proyectos reales, ya que fa
 Autor
 
 Nombre: Tomás Mastropietro
+
 Legajo: (52695)
+
 Materia: Programación III - Alberto Cortez
+
 Año: 2025
 
 
