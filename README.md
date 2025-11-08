@@ -57,15 +57,16 @@ Capturas de Pantalla:
 <img width="1356" height="315" alt="image" src="https://github.com/user-attachments/assets/c093ac5f-bcbd-4741-9eab-0ec78f6c2cf6" />
 
 
-💭 Conclusiones Personales
-Este proyecto me permitió comprender en profundidad cómo Spring Boot gestiona los diferentes perfiles de configuración y cómo adaptar la aplicación según el entorno de ejecución.
-Además, reforcé conceptos sobre inyección de dependencias, configuración modular con YAML, y la importancia de mantener una arquitectura clara y escalable.
-El uso de perfiles (dev y prod) resulta fundamental en proyectos reales, ya que facilita la separación entre el entorno de desarrollo y el de producción, reduciendo errores y mejorando la mantenibilidad del sistema.
+Conclusiones Personales
+Este proyecto me permitió comprender en profundidad cómo Spring Boot gestiona los diferentes perfiles de configuración y cómo adaptar la aplicación según el entorno de ejecución,
+reforcé conceptos sobre inyección de dependencias, configuración modular con YAML, y la importancia de mantener una arquitectura clara y escalable
+El uso de perfiles (dev y prod) es muy importante en proyectos reales, ya que facilita la separación entre el entorno de desarrollo y el de producción, reduciendo errores y mejorando la mantenibilidad del sistema.
 
-👤 Autor
+Autor
+
 Nombre: Tomás Mastropietro
-Legajo: (Agregar tu número de legajo)
-Materia: Programación III - Spring Boot
+Legajo: (52695)
+Materia: Programación III - Alberto Cortez
 Año: 2025
 
 
